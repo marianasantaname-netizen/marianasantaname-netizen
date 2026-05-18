@@ -37,3 +37,8 @@ Tecnologia • Psicologia • Literatura • Música • Dark Academia
 ---
 
 > “You do not rise to the level of your goals. You fall to the level of your systems.”
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=marianasantaname-netizen&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=marianasantaname-netizen&layout=compact&theme=tokyonight&hide_border=true)
