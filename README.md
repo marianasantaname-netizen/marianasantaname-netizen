@@ -32,11 +32,9 @@ Tecnologia • Psicologia • Literatura • Música • Dark Academia
 
 ## ⚙️ Tecnologias e Ferramentas
 
-![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python)
-![Git](https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github)
-![Postman](https://img.shields.io/badge/Postman-111111?style=for-the-badge&logo=postman)
-
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,git,github,vscode,postman" />
+</p>
 ---
 
 > “You do not rise to the level of your goals. You fall to the level of your systems.”
@@ -45,3 +43,11 @@ Tecnologia • Psicologia • Literatura • Música • Dark Academia
 ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=marianasantaname-netizen&show_icons=true&theme=tokyonight&hide_border=true)
 
 ![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=marianasantaname-netizen&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=marianasantaname-netizen&theme=tokyonight&hide_border=true)
+
+---
+
+## 🕯️ Contribution Graph
+
+[![Mariana's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=marianasantaname-netizen&bg_color=0d1117&color=8A2BE2&line=8A2BE2&point=FFFFFF&area=true&hide_border=true)](https://github.com/marianasantaname-netizen)
