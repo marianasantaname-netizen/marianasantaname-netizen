@@ -1,4 +1,7 @@
 # Mariana Santana ☕🖤
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=8A2BE2&center=true&vCenter=true&lines=QA+Automation;Python+Student;Software+Quality;Future+Full+Stack+Developer" />
+</p>
 
 > QA Automation • Python • Software Quality
 
