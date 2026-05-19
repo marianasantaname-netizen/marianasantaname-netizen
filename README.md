@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="COLE_O_LINK_AQUI" />
+  <img src="https://github.com/marianasantaname-netizen/marianasantaname-netizen/blob/main/ChatGPT%20Image%20May%2019,%202026,%2003_29_33%20PM.png?raw=true" />
 </p>
 
 # Mariana Santana ☕🖤
