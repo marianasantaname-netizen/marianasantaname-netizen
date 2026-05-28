@@ -20,7 +20,7 @@ Tenho interesse em qualidade de software, APIs, testes automatizados e futuramen
 ## 📚 Estudando atualmente
 
 - Lógica de Programação
-- Python
+- Java
 - Git & GitHub
 - QA Automation
 - APIs REST
@@ -37,7 +37,7 @@ Tecnologia • Psicologia • Literatura • Música • Dark Academia
 ## ⚙️ Tecnologias e Ferramentas
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,git,github,vscode,postman" />
+  <img src="https://skillicons.dev/icons?i=java,git,github,vscode,postman" />
 </p>
 ---
 
